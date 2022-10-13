@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>FML fan page</title>
+  </head>
+  <body>
+    <h1>Full Metal Alchemist Fan Page</h1>
+    <nav class="navigation">
+      <a heref="plot" 
+      <a>characters</a>
+    </nav>
+    <main>
+      <p>
+        <audio>
+          <source src="03" again (TV size).mp3 type="audio/ogg" />
+          <source src="03" again (TV size).mp3 type="audio/mpeg" />
+        </audio>
+      </p>
+    </main>
+  </body>
+</html>
